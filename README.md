@@ -1,5 +1,7 @@
 # t3-docker-bug
 
+Reproduction repo for issue https://github.com/t3-oss/create-t3-app/issues/1758
+
 After project initialization, t3 works fine:
 
 ```
